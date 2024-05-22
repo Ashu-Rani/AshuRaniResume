@@ -26,6 +26,15 @@ main{
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+#about{
+    padding-left: 20px;
+}
+#experience{
+    padding-left: 20px;
 }
 
 header{
